@@ -5,7 +5,13 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikraj0804) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rritik345@gmail.com) 
 
-![snake gif](https://github.com/Ritirak/Ritikrak/blob/output/github-snake-dark.svg)
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 
 
 # 💻 Tech Stack:
