@@ -5,7 +5,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ritikraj0804) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rritik345@gmail.com) 
 
-![Snake animation](https://github.com/Ritikrak/Ritikrak/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Ritirak/Ritikrak/blob/output/github-snake-dark.svg)
 
 
 # 💻 Tech Stack:
