@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">I'm Ritik Raj <br><br>- 🔭 I’m student of Government Engineering College Jehanabad<br>- 📚 I'm currently learning Gen AI/Data Analytics<br>- ⚡ In my free time I used this time in creating projects and Coding in Languages like Python, C, C++,Java</p>
+<p align="left">I'm Ritik Raj <br><br>- 🔭 I’m student of Government Engineering College Jehanabad<br> ⚡ In my free time I used this time in creating projects and Coding in Languages like Python, C, C++,Java</p>
 
 ###
 
